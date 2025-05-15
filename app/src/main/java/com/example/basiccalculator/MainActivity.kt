@@ -308,5 +308,9 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-bdjbdwjbnjnownnknsklnnsn d
+
+@Composable
+fun Testing(modifier: Modifier = Modifier) {
+    Box(modifier=Modifier)
+}
 
