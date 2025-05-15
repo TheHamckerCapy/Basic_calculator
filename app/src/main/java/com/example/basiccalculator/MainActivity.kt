@@ -309,4 +309,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+@Composable
+fun Testing(modifier: Modifier = Modifier) {
+    Box(modifier=Modifier)
+}
 
